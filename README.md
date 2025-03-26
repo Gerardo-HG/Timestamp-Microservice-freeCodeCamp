@@ -46,10 +46,10 @@ Para ejecutar esta aplicación localmente, sigue estos pasos:
 
 5. **Abre tu navegador y ve hacia http://localhost:3000
 
-##🤝 Contribuciones
+🤝 Contribuciones
 Las contribuciones son bienvenidas. Si deseas colaborar, por favor envía un pull request.
 
-##📄 Licencia
+📄 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 ✨ Agradecimientos
